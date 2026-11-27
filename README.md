@@ -1,4 +1,4 @@
-# installation-of-docker_kubectl_kind_helm_workernode
+# installation-of-docker_kubectl_kind_helm_workernode_WithArgoCD
 Installing Docker, kubectl, and Helm sets up a complete local workflow for building, managing, and deploying containerized applications.
 
 
